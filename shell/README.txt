@@ -38,3 +38,7 @@ unicycler
 
 ==========12=========
 prokka
+
+==========13=========
+diamond
+gene_tree
